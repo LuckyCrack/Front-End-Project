@@ -288,6 +288,10 @@ input::placeholder
 {
   font-size: 40px;
 }
+.info_text2
+{
+  font-size: 25px;
+}
 .img_box
 {
   display: flex;
